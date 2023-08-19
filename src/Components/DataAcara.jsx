@@ -13,7 +13,7 @@ const DataAcara = ({ namaAcaraAkad, lainnyaAkad, visiblAkad, hariAkad, akad, puk
           <Accordion.Item eventKey="0">
             <Accordion.Header>
               <i className="bi bi-calendar2-check me-2"></i>
-              <div className="labelForm">Rincian Acara</div>
+              <div className="labelForm">Rincian Acara </div>
             </Accordion.Header>
             <Accordion.Body>
               <Accordion flush>
