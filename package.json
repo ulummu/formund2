@@ -1,7 +1,7 @@
 {
-  "name": "webform",
+  "name": "formUndangan2",
   "version": "0.1.0",
-  "homepage": "https://form4.undangandigimo.com",
+  "homepage": "https://form2.undangandigimo.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
